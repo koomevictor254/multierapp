@@ -6,7 +6,7 @@ app1
 app2
 
 [database_servers]
-appdb1
+appdb1.cdd2.example.opentlc.com:w
 
 [internal:children]
 load_balancers
